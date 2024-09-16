@@ -18,3 +18,12 @@ models that predict market trends and optimal times to trade. This can
 help with investment strategies, manage risk better, and ultimately 
 result in better financial decisions to increase profit.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging preserves the history of all branches, enabling a person 
+to see the full history of changes made throughout a project. On the 
+other hand rebasing takes the commits of a branch and places it on the 
+tip of the main branch, which essentially rewrites the projects history 
+with brand new commits for each commit in the original. Merging shows 
+the various branching and merges (which can become messy to look at at),
+while rebasing results in a linear history.
