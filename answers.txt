@@ -1,0 +1,10 @@
+Q1: Why might be consider using git?
+
+Answer: Git is incredibly useful for collaborative projects as it
+facilitates code management. Being able to track changes in code allows
+for easy reversions in the event something bad occurs with the current
+version. In terms of development, Git's branching and merging
+capabilities enable isolated development and smooth integration of new
+features into the master branch. Overall, Git is a useful tool that facilitates
+collaboration.
+
